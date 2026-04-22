@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-This repository contains the source code and datasets for a study analyzing the efficacy of multimodal learning in medical image analysis. By integrating visual data (clinical images) with textual information (diagnostic descriptions), we aim to improve classification accuracy compared to unimodal approaches.
+This repository contains the source code and datasets (except images) for a study analyzing the efficacy of multimodal learning in medical image analysis. By integrating visual data (clinical images) with textual information (diagnostic descriptions), we aim to improve classification accuracy compared to unimodal approaches.
 
 Using the **MedPix 2.0 dataset**, this project systematically evaluates how combining ResNet-based image features with BERT-based text embeddings influences performance in classifying medical image locations.
 
